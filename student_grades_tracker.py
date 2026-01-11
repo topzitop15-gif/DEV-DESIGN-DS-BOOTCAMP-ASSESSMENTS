@@ -80,7 +80,7 @@ print("="* 50)
 print (f"THE HIGHEST SCORE IS: {highest_score:.1f}")
 print("="* 50)
 
-print(f"THE LOSWEST SCORE IS: {lowest_score:.1f}")
+print(f"THE LOWEST SCORE IS: {lowest_score:.1f}")
 print("="* 50)
         
 
